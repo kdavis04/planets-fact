@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "build": "npx mix",
-        "mix-watch": "npx mix watch"
+        "mix-watch": "npx mix watch",
+        "start": "node dev-server.js"
     },
     "repository": {
         "type": "git",

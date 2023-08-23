@@ -93,6 +93,13 @@ or
 $ npx mix watch
 ```
 
+Start a development server on port 3000:
+
+```
+$ npm run start
+```
+Note: This mimics the behavior of a development server that serves a React application. It's recommended to use tools like vite or other established setups for a more comprehensive development experience.
+
 ## Useful resources
 
 -   [DOCS - ReactJS](https://reactjs.org/)
